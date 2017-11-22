@@ -2,7 +2,7 @@ PyBoard Keyboard
 ================
 
 
-Contains firmware for a 47 key custom keyboard running on a micropython pyboard.
+Contains firmware for a 47 key keyboard running on a micropython pyboard.
 
 
 Key Codes
